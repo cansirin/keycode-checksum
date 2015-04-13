@@ -1,12 +1,12 @@
 {
   "name": "keycode-checksum",
-  "version": "0.1.1",
-  "description": "calculate checksums using fletcher's algorithm for given keycode sequences/shortcut definitions",
+  "version": "0.1.2",
+  "description": "calculate checksums using fletcher's algorithm for given keycode sequences",
   "main": "index.js",
   "dependencies": {
     "fletcher": "^0.0.3",
     "isarray": "0.0.1",
-    "yields-keycode": "^1.1.0"
+    "keycode": "^2.0.0"
   },
   "devDependencies": {},
   "scripts": {

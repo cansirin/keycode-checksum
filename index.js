@@ -1,5 +1,5 @@
 var fletcher16 = require('fletcher');
-var keycode = require('yields-keycode');
+var keycode = require('keycode');
 
 function sum (s) {
   if ('string' === typeof s) 
