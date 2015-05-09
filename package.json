@@ -1,6 +1,6 @@
 {
   "name": "keycode-checksum",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "calculate checksums using fletcher's algorithm for given keycode sequences",
   "main": "index.js",
   "dependencies": {
